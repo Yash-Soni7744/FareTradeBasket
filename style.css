@@ -600,6 +600,16 @@ ul {
     margin-bottom: 20px;
 }
 
+.leader-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 4px solid var(--logo-green-light);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
 .leader-profile h3 {
     font-size: 1.8rem;
     margin-bottom: 5px;
